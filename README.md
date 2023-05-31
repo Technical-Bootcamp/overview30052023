@@ -10,6 +10,7 @@ I can link an issue to a piece of work to get traceability
 You can take a look at our live running website following this address: [https://tailwindtraders.com](https://tailwindtraders.com)
 
 # Using codespaces
+Codespaces is a nice feature to have a standardised development environment. You don't even need to install anything!
 Simply press 'Open in codespaces'. We have a devcontainer.json available!
 
 # Repositories
