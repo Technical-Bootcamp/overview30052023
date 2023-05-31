@@ -1,0 +1,9 @@
+on: push
+
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello world!"
+      - run: echo "This is step 2!"
+        
